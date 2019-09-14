@@ -1,0 +1,4 @@
+1.  Add ability to define different study topic and sessions.
+2.  Add ability to track progress through multiple sessions.
+3.  Design GUI.
+**Improve correct answer detector method
